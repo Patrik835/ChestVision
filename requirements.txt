@@ -11,3 +11,4 @@ scipy
 matplotlib
 seaborn
 jupyterlab
+umap-learn
